@@ -831,10 +831,3 @@ The device servient stops sending event and returns the response with â€œ200 OKâ
 
 (125) send (200 OK)<BR>
 
-## 4 Use cases
-
-### USE CASE
-
-* OK/NO/OT/NA
-   * Issue: 
-   * Comment: 
